@@ -1,4 +1,9 @@
 {
+  "affjax": {
+    "dependencies": [],
+    "repo": "https://github.com/slamdata/purescript-affjax",
+    "version": "v3.0.2"
+  },
   "ace": {
     "dependencies": [
       "arrays",
