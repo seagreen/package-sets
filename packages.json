@@ -936,6 +936,47 @@
         "repo": "https://github.com/purescript-contrib/purescript-drawing.git",
         "version": "v2.1.0"
     },
+    "easy-ffi": {
+        "dependencies": [
+            "arrays",
+            "bifunctors",
+            "console",
+            "control",
+            "distributive",
+            "eff",
+            "either",
+            "exceptions",
+            "exists",
+            "foldable-traversable",
+            "generics",
+            "identity",
+            "integers",
+            "invariant",
+            "lazy",
+            "lists",
+            "math",
+            "maybe",
+            "monoid",
+            "newtype",
+            "nonempty",
+            "partial",
+            "prelude",
+            "profunctor",
+            "proxy",
+            "psci-support",
+            "quickcheck",
+            "random",
+            "st",
+            "strings",
+            "tailrec",
+            "transformers",
+            "tuples",
+            "unfoldable",
+            "unsafe-coerce"
+        ],
+        "repo": "https://github.com/pelotom/purescript-easy-ffi.git",
+        "version": "v2.1.0"
+    },
     "eff": {
         "dependencies": [
             "prelude"
