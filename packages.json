@@ -864,7 +864,9 @@
     "dom": {
         "dependencies": [
             "arrays",
+            "assert",
             "bifunctors",
+            "console",
             "control",
             "datetime",
             "distributive",
@@ -901,7 +903,7 @@
             "unsafe-coerce"
         ],
         "repo": "https://github.com/purescript-contrib/purescript-dom.git",
-        "version": "v3.3.1"
+        "version": "v3.5.1"
     },
     "dom-indexed": {
         "dependencies": [
